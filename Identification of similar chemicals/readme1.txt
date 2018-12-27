@@ -1,4 +1,5 @@
-!!!  Note: this section should be run under the rdkit environment  !!!  
+!!!  Note: this section should be run under the rdkit environment  !!! 
+The original data is here: https://bit.ly/2VcTgk1
 
 
 
@@ -38,6 +39,8 @@
 
 
 9. the "function_similarData_toDataFrame" is a summary of functions above
+
+	The original data is here: https://bit.ly/2VcTgk1 
 
 	This step is to find the distance for chemicals after PCA only
 
